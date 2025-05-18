@@ -1,0 +1,1 @@
+Location for automatic test of module

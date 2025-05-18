@@ -1,0 +1,170 @@
+{
+  "2.3.9792": {
+    "servicingTag": "2.3",
+    "uniqueTag": "2.3.9792",
+    "pr": {
+      "description": "#### Summary\nAdded pull request template",
+      "title": "Added pull request template",
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      }
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.3.9792",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.3",
+    "date": "2023-07-28"
+  },
+  "2.3.12211": {
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.3.12211",
+    "servicingTag": "2.3",
+    "uniqueTag": "2.3.12211",
+    "date": "2023-11-23",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.3",
+    "pr": {
+      "title": "Terraform-Doku adjustments",
+      "description": "#### Summary\nAdjustments to the Terraform documentation process",
+      "createdBy": {
+        "displayName": "Daniel Alexander Giej",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/3f9c2bc7-9432-6441-8698-fb802a9f8ecf",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.M2Y5YzJiYzctOTQzMi03NDQxLTg2OTgtZmI4MDJhOWY4ZWNm"
+          }
+        },
+        "id": "3f9c2bc7-9432-6441-8698-fb802a9f8ecf",
+        "uniqueName": "GiejDA@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=3f9c2bc7-9432-6441-8698-fb802a9f8ecf",
+        "descriptor": "aad.M2Y5YzJiYzctOTQzMi03NDQxLTg2OTgtZmI4MDJhOWY4ZWNm"
+      }
+    }
+  },
+  "2.3.19166": {
+    "pr": {
+      "description": "#### Summary\nfix error from missing provider definition\n\n\nChanged\n  * fix error from missing provider definition\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | ~>3.0                            |\n\n",
+      "title": "fix error from missing provider definition",
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      }
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.3.19166",
+    "date": "2024-10-04",
+    "uniqueTag": "2.3.19166",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.3",
+    "servicingTag": "2.3"
+  },
+  "2.3.19908": {
+    "uniqueTag": "2.3.19908",
+    "pr": {
+      "description": "#### Summary\nAdded NSG for all subnets\n\nChanged\n  * Added empty NSG for all subnets\n  * Updated NSG name\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| >= 0.14          | ~>3.0                            |",
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      },
+      "title": "Added NSG for all subnets"
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.3.19908",
+    "servicingTag": "2.3",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.3",
+    "date": "2024-11-06"
+  },
+  "2.4.19934": {
+    "pr": {
+      "description": "#### Summary\nFixed subnet arguments\n\nFixed\n  * Fixed subnet arguments\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| >= 0.14          | >3.0                            |",
+      "title": "Fixed subnet arguments",
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      }
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.4.19934",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.4",
+    "date": "2024-11-06",
+    "uniqueTag": "2.4.19934",
+    "servicingTag": "2.4"
+  },
+  "2.4.20270": {
+    "pr": {
+      "title": "",
+      "description": "",
+      "createdBy": null
+    },
+    "servicingTag": "2.4",
+    "uniqueTag": "2.4.20270",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.4",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT2.4.20270",
+    "date": "2024-11-09"
+  },
+  "4.0.20505": {
+    "uniqueTag": "4.0.20505",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT4.0",
+    "pr": {
+      "description": "",
+      "title": "",
+      "createdBy": null
+    },
+    "servicingTag": "4.0",
+    "date": "2024-11-13",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT4.0.20505"
+  },
+  "4.1.20862": {
+    "uniqueTag": "4.1.20862",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT4.1",
+    "servicingTag": "4.1",
+    "date": "2024-11-29",
+    "pr": {
+      "description": "#### Summary\nTo stay compliant with the new security policy we have to create subnets and theirs NSGs directly with the vnet resource\n\nChanged\n  * To stay compliant with the new security policy we have to create subnets and theirs NSGs directly with the vnet resource\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| >= 0.14          | ~> 4.0                            |",
+      "createdBy": {
+        "displayName": "Marius Grosch",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/70341584-59e3-67fb-adfc-90d8e8363f44",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.NzAzNDE1ODQtNTllMy03N2ZiLWFkZmMtOTBkOGU4MzYzZjQ0"
+          }
+        },
+        "id": "70341584-59e3-67fb-adfc-90d8e8363f44",
+        "uniqueName": "GroschM1@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=70341584-59e3-67fb-adfc-90d8e8363f44",
+        "descriptor": "aad.NzAzNDE1ODQtNTllMy03N2ZiLWFkZmMtOTBkOGU4MzYzZjQ0"
+      },
+      "title": "NSG assignment during subnet creation"
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-vnet?version=GT4.1.20862"
+  }
+}
