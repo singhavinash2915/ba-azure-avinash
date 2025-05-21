@@ -1,0 +1,362 @@
+{
+  "1.5.9533": {
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.5",
+    "servicingTag": "1.5",
+    "uniqueTag": "1.5.9533",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.5.9533",
+    "date": "2023-07-21",
+    "pr": {
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      },
+      "title": "Added pull request template",
+      "description": "#### Summary\nAdded pull request template"
+    }
+  },
+  "1.5.10379": {
+    "servicingTag": "1.5",
+    "date": "2023-08-23",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.5",
+    "pr": {
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      },
+      "title": "Change for terraform-docs",
+      "description": "#### Summary\nAdded Terraform-Docs-Section in Readme.md and re-arranged e2e-test for including fixture/main.tf in Readme.md via terraform-docs\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |"
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.5.10379",
+    "uniqueTag": "1.5.10379"
+  },
+  "1.5.10382": {
+    "uniqueTag": "1.5.10382",
+    "servicingTag": "1.5",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.5",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.5.10382",
+    "date": "2023-08-23",
+    "pr": {
+      "createdBy": null,
+      "title": "",
+      "description": ""
+    }
+  },
+  "1.6.10527": {
+    "servicingTag": "1.6",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.6.10527",
+    "pr": {
+      "title": "Static WebSites capability",
+      "description": "#### Summary\nAdded Static WebSites capability in module terraform-azurerm-storage\n\nChanged\n  * static website can be activated\n     NOTE: can only be activated when the kind is set to StorageV2 or BlockBlobStorage.\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |",
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      }
+    },
+    "uniqueTag": "1.6.10527",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.6",
+    "date": "2023-08-28"
+  },
+  "1.6.12210": {
+    "pr": {
+      "description": "#### Summary\nUse of the new pipeline templates",
+      "createdBy": {
+        "displayName": "Daniel Alexander Giej",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/3f9c2bc7-9432-6441-8698-fb802a9f8ecf",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.M2Y5YzJiYzctOTQzMi03NDQxLTg2OTgtZmI4MDJhOWY4ZWNm"
+          }
+        },
+        "id": "3f9c2bc7-9432-6441-8698-fb802a9f8ecf",
+        "uniqueName": "GiejDA@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=3f9c2bc7-9432-6441-8698-fb802a9f8ecf",
+        "descriptor": "aad.M2Y5YzJiYzctOTQzMi03NDQxLTg2OTgtZmI4MDJhOWY4ZWNm"
+      },
+      "title": "Using new pipeline templates"
+    },
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.6",
+    "servicingTag": "1.6",
+    "uniqueTag": "1.6.12210",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.6.12210",
+    "date": "2023-11-23"
+  },
+  "1.6.18058": {
+    "servicingTag": "1.6",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.6",
+    "uniqueTag": "1.6.18058",
+    "pr": {
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      },
+      "title": "pin to higest azurerm 3.113.0 (July 18, 2024)",
+      "description": "#### Summary\npin to max azurerm 3.113.0 (July 18, 2024)\n\n\n\nChanged\n  * pin to max azurerm 3.113.0 (July 18, 2024) \n\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | <= 3.113.0                       |\n\n"
+    },
+    "date": "2024-08-14",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.6.18058"
+  },
+  "1.7.18062": {
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.7",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.7.18062",
+    "servicingTag": "1.7",
+    "date": "2024-08-14",
+    "pr": {
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      },
+      "title": "The property `enable_https_traffic_only` has been superseded by `https_traffic_only_enabled`",
+      "description": "#### Summary\nThe property `enable_https_traffic_only` has been superseded by `https_traffic_only_enabled\n\n\n\nChanged\n  * │ The property `enable_https_traffic_only` has been superseded by\n│ `https_traffic_only_enabled` and will be removed in v4.0 of the AzureRM\n│ Provider.\n\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |\n"
+    },
+    "uniqueTag": "1.7.18062"
+  },
+  "1.7.18067": {
+    "pr": {
+      "description": "",
+      "createdBy": null,
+      "title": ""
+    },
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.7",
+    "date": "2024-08-15",
+    "servicingTag": "1.7",
+    "uniqueTag": "1.7.18067",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.7.18067"
+  },
+  "1.7.18436": {
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.7.18436",
+    "date": "2024-08-30",
+    "uniqueTag": "1.7.18436",
+    "servicingTag": "1.7",
+    "pr": {
+      "title": "add shared_access_key_enabled setting",
+      "description": "#### Summary\nadd shared_access_key_enabled setting\n\nChanged\n  * add shared_access_key_enabled setting\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |\n\nadd shared_access_key_enabled setting",
+      "createdBy": {
+        "displayName": "Felix Wenzel",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2cac4fae-b3eb-61c0-8a55-e81591546f97",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmNhYzRmYWUtYjNlYi03MWMwLThhNTUtZTgxNTkxNTQ2Zjk3"
+          }
+        },
+        "id": "2cac4fae-b3eb-61c0-8a55-e81591546f97",
+        "uniqueName": "U10087351@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2cac4fae-b3eb-61c0-8a55-e81591546f97",
+        "descriptor": "aad.MmNhYzRmYWUtYjNlYi03MWMwLThhNTUtZTgxNTkxNTQ2Zjk3"
+      }
+    },
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.7"
+  },
+  "1.7.18439": {
+    "date": "2024-08-30",
+    "pr": {
+      "description": "#### Summary\nbump patch version\n\nChanged\n  * bump patch version\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |",
+      "title": "bump patch version",
+      "createdBy": {
+        "displayName": "Felix Wenzel",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2cac4fae-b3eb-61c0-8a55-e81591546f97",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmNhYzRmYWUtYjNlYi03MWMwLThhNTUtZTgxNTkxNTQ2Zjk3"
+          }
+        },
+        "id": "2cac4fae-b3eb-61c0-8a55-e81591546f97",
+        "uniqueName": "U10087351@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2cac4fae-b3eb-61c0-8a55-e81591546f97",
+        "descriptor": "aad.MmNhYzRmYWUtYjNlYi03MWMwLThhNTUtZTgxNTkxNTQ2Zjk3"
+      }
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.7.18439",
+    "uniqueTag": "1.7.18439",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.7",
+    "servicingTag": "1.7"
+  },
+  "1.7.20058": {
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.7.20058",
+    "date": "2024-11-07",
+    "uniqueTag": "1.7.20058",
+    "pr": {
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      },
+      "title": "Added additional pipeline parameters",
+      "description": "#### Summary\nAdded additional pipeline parameters\n\nChanged\n  * Added additional pipeline parameters\n\n"
+    },
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.7",
+    "servicingTag": "1.7"
+  },
+  "1.8.20092": {
+    "date": "2024-11-07",
+    "pr": {
+      "title": "Removed fixed Provider Version",
+      "description": "#### Summary\nRemoved fixed Provider Version\n\nBreaking\n  * Removed fixed Provider Version\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| >= 0.14          | > 3.0                            |",
+      "createdBy": {
+        "displayName": "Marius Grosch",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/70341584-59e3-67fb-adfc-90d8e8363f44",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.NzAzNDE1ODQtNTllMy03N2ZiLWFkZmMtOTBkOGU4MzYzZjQ0"
+          }
+        },
+        "id": "70341584-59e3-67fb-adfc-90d8e8363f44",
+        "uniqueName": "GroschM1@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=70341584-59e3-67fb-adfc-90d8e8363f44",
+        "descriptor": "aad.NzAzNDE1ODQtNTllMy03N2ZiLWFkZmMtOTBkOGU4MzYzZjQ0"
+      }
+    },
+    "servicingTag": "1.8",
+    "uniqueTag": "1.8.20092",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.8.20092",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.8"
+  },
+  "1.8.20299": {
+    "uniqueTag": "1.8.20299",
+    "servicingTag": "1.8",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.8",
+    "pr": {
+      "title": "",
+      "createdBy": null,
+      "description": ""
+    },
+    "date": "2024-11-09",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT1.8.20299"
+  },
+  "4.0.20503": {
+    "servicingTag": "4.0",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT4.0",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT4.0.20503",
+    "pr": {
+      "title": "",
+      "description": "",
+      "createdBy": null
+    },
+    "uniqueTag": "4.0.20503",
+    "date": "2024-11-13"
+  },
+  "4.1.22190": {
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT4.1.22190",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT4.1",
+    "date": "2025-01-29",
+    "pr": {
+      "description": "#### Summary\nEnhance storage module to support public IP list and add corresponding output\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| >= 0.14          | ~>4.0                           |",
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      },
+      "title": "Enhance storage module to support public IP list and add corresponding output"
+    },
+    "uniqueTag": "4.1.22190",
+    "servicingTag": "4.1"
+  },
+  "4.1.22661": {
+    "date": "2025-02-17",
+    "uniqueTag": "4.1.22661",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT4.1.22661",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT4.1",
+    "pr": {
+      "createdBy": {
+        "displayName": "Pablo Casillas",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/90cc3a32-5d16-6936-b7d2-5316f6c76f21",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.OTBjYzNhMzItNWQxNi03OTM2LWI3ZDItNTMxNmY2Yzc2ZjIx"
+          }
+        },
+        "id": "90cc3a32-5d16-6936-b7d2-5316f6c76f21",
+        "uniqueName": "U10110877@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=90cc3a32-5d16-6936-b7d2-5316f6c76f21",
+        "descriptor": "aad.OTBjYzNhMzItNWQxNi03OTM2LWI3ZDItNTMxNmY2Yzc2ZjIx"
+      },
+      "description": "#### Summary\n\nAdded cross tenant replication attribute to storage accounts\n\nChanged\n\nAdded functionality for replicate storage account between tenants\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |",
+      "title": "Add cross tenant attribute"
+    },
+    "servicingTag": "4.1"
+  },
+  "4.1.23966": {
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT4.1.23966",
+    "uniqueTag": "4.1.23966",
+    "pr": {
+      "description": "#### Summary\nMarked some outputs as sensitive (conflicting with latest terraform versions)\n\n\nFixed\n  * Marked some outputs as sensitive (conflicting with latest terraform versions)\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >~4.0                        |\n\n",
+      "createdBy": {
+        "displayName": "Jorge Pulido Lopez",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/b4df3da6-2a24-6fe8-94f5-3ca2ee42dda0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.YjRkZjNkYTYtMmEyNC03ZmU4LTk0ZjUtM2NhMmVlNDJkZGEw"
+          }
+        },
+        "id": "b4df3da6-2a24-6fe8-94f5-3ca2ee42dda0",
+        "uniqueName": "PulidoJ@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=b4df3da6-2a24-6fe8-94f5-3ca2ee42dda0",
+        "descriptor": "aad.YjRkZjNkYTYtMmEyNC03ZmU4LTk0ZjUtM2NhMmVlNDJkZGEw"
+      },
+      "title": "Marked some outputs as sensitive (conflicting with latest terraform versions)"
+    },
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-storage?version=GT4.1",
+    "date": "2025-04-16",
+    "servicingTag": "4.1"
+  }
+}

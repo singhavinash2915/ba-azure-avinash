@@ -1,0 +1,602 @@
+{
+  "2.3.9751": {
+    "servicingTag": "2.3",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3",
+    "uniqueTag": "2.3.9751",
+    "pr": {
+      "title": "Added pull request template",
+      "description": "#### Summary\nAdded pull request template",
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      }
+    },
+    "date": "2023-07-28",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3.9751"
+  },
+  "2.3.10161": {
+    "pr": {
+      "title": "Fix  key_vault_reference_identity_id",
+      "description": "#### Summary\nkey_vault_reference_identity_id was mssing in main\n\nFixed\n  * key_vault_reference_identity_id was mssing in main\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |\n",
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      }
+    },
+    "servicingTag": "2.3",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3",
+    "uniqueTag": "2.3.10161",
+    "date": "2023-08-14",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3.10161"
+  },
+  "2.3.10167": {
+    "servicingTag": "2.3",
+    "date": "2023-08-14",
+    "uniqueTag": "2.3.10167",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3",
+    "pr": {
+      "description": "#### Summary\nadd app insights settings for Windows ASP\n\nChanged\n  * add app insights settings for Windows ASP\n\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |",
+      "title": "add app insights settings for Windows ASP",
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      }
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3.10167"
+  },
+  "2.3.10346": {
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3",
+    "servicingTag": "2.3",
+    "uniqueTag": "2.3.10346",
+    "pr": {
+      "description": "#### Summary\nAdded Terraform-Docs-Section in Readme.md and re-arranged e2e-test for including fixture/main.tf in Readme.md via terraform-docs\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |",
+      "title": "Chages for Terraform-Docs",
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      }
+    },
+    "date": "2023-08-21",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3.10346"
+  },
+  "2.3.10373": {
+    "date": "2023-08-23",
+    "pr": {
+      "createdBy": null,
+      "title": "",
+      "description": ""
+    },
+    "uniqueTag": "2.3.10373",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3.10373",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3",
+    "servicingTag": "2.3"
+  },
+  "2.3.10398": {
+    "date": "2023-08-24",
+    "pr": {
+      "description": "",
+      "createdBy": null,
+      "title": ""
+    },
+    "uniqueTag": "2.3.10398",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3",
+    "servicingTag": "2.3",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.3.10398"
+  },
+  "2.4.11088": {
+    "date": "2023-10-05",
+    "uniqueTag": "2.4.11088",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.4.11088",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.4",
+    "servicingTag": "2.4",
+    "pr": {
+      "description": "#### Summary\n* Added new variable for public network access which was introduces by HashiCorp to enable or disable public network access\n* Fixed AppService deprecated arguments\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |",
+      "createdBy": {
+        "displayName": "Daniel Schmitt",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/35f5a1be-e940-6e93-a9f3-5c986367d113",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MzVmNWExYmUtZTk0MC03ZTkzLWE5ZjMtNWM5ODYzNjdkMTEz"
+          }
+        },
+        "id": "35f5a1be-e940-6e93-a9f3-5c986367d113",
+        "uniqueName": "SchmiD37@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=35f5a1be-e940-6e93-a9f3-5c986367d113",
+        "descriptor": "aad.MzVmNWExYmUtZTk0MC03ZTkzLWE5ZjMtNWM5ODYzNjdkMTEz"
+      },
+      "title": "Fixed public network access "
+    }
+  },
+  "2.4.11115": {
+    "date": "2023-10-06",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.4",
+    "pr": {
+      "description": "#### Summary\n- Add custom Domain Verification ID to outputs\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |",
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      },
+      "title": "Add custom Domain Verification ID"
+    },
+    "uniqueTag": "2.4.11115",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.4.11115",
+    "servicingTag": "2.4"
+  },
+  "2.4.11324": {
+    "pr": {
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      },
+      "description": "#### Summary\nFixing ip_restriction changes\n\n\nChanged\n  * added client_certificate_mode parameter\n\nFixed\n  * fixes lifecycle block, that e.g. ip_restriction changes are discovered\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |",
+      "title": "Fixing ip_restrictions changes"
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.4.11324",
+    "uniqueTag": "2.4.11324",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.4",
+    "date": "2023-10-17",
+    "servicingTag": "2.4"
+  },
+  "2.4.11342": {
+    "uniqueTag": "2.4.11342",
+    "servicingTag": "2.4",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.4.11342",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.4",
+    "pr": {
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      },
+      "title": "Implement client_certificate_exclusion_paths",
+      "description": "#### Summary\nImplement client_certificate_exclusion_paths\nChanged\n  * Implement client_certificate_exclusion_paths\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |\n\nimpelement client_certificate_exclusion_paths"
+    },
+    "date": "2023-10-20"
+  },
+  "2.5.11457": {
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5.11457",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5",
+    "date": "2023-10-24",
+    "pr": {
+      "description": "#### Summary\nAdded Auth_Settings_V2 capability to AppService\n\nChanged\n  * Added Auth_Settings_V2 settings. See https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/linux_web_app#auth_settings_v2 and https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/windows_web_app#auth_settings_v2\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.45                            |",
+      "title": "Added Auth_Settings_V2 (EasyAuthV2) to AppService",
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      }
+    },
+    "uniqueTag": "2.5.11457",
+    "servicingTag": "2.5"
+  },
+  "2.5.11733": {
+    "uniqueTag": "2.5.11733",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5",
+    "date": "2023-11-07",
+    "servicingTag": "2.5",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5.11733",
+    "pr": {
+      "description": "#### Summary\nOnly EasyAuthV2 via variable aad_client_id \n\nBreaking\n  * No EasyAuthV1 anymore supported by module. Only auth_settings_v2 are now passed to submodules -> auth_settings parameter anymore available.\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.45                            |",
+      "title": "EasyAuthV2 implementation with not EasyAuhtV1 support anymore",
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      }
+    }
+  },
+  "2.5.13054": {
+    "servicingTag": "2.5",
+    "date": "2024-01-09",
+    "pr": {
+      "description": "#### Summary\nimplement health_check_eviction_time_in_min\n\n\n\nChanged\n  * health_check_eviction_time_in_min - (Optional) The amount of time in minutes that a node can be unhealthy before being removed from the load balancer. Possible values are between 2 and 10. Only valid in conjunction with health_check_path.\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |\n\n",
+      "title": "implement health_check_eviction_time_in_min",
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      }
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5.13054",
+    "uniqueTag": "2.5.13054",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5"
+  },
+  "2.5.15086": {
+    "pr": {
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      },
+      "title": "Process Parameter allowed_audiences correctly",
+      "description": "#### Summary\nProcess Parameter allowed_audiences correctly\n\nFixed\n  * the parmater allowed_audiences is now handled correctly for EasyAuth-V2\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | ~> 3.46                            |"
+    },
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5",
+    "servicingTag": "2.5",
+    "date": "2024-04-19",
+    "uniqueTag": "2.5.15086",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5.15086"
+  },
+  "2.5.16573": {
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5",
+    "pr": {
+      "title": "pin version to <3.95 to avoid https://github.com/hashicorp/terraform-provider...",
+      "description": "#### Summary\npin version to < 3.95 to avoid https://github.com/hashicorp/terraform-provider...\n\nFixed\n  * pin version to < 3.95 to avoid https://github.com/hashicorp/terraform-provider...\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | < 3.95                         |\n\n",
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      }
+    },
+    "servicingTag": "2.5",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5.16573",
+    "uniqueTag": "2.5.16573",
+    "date": "2024-06-19"
+  },
+  "2.5.16585": {
+    "date": "2024-06-19",
+    "servicingTag": "2.5",
+    "uniqueTag": "2.5.16585",
+    "pr": {
+      "title": "Added default_ip_restrictions_deny",
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      },
+      "description": "#### Summary\nhttps://github.com/hashicorp/terraform-provider-azurerm/issues/22593\n\nFixed\n  * Default ip_restrictions action\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| >= 0.14.x          | ~> 3.45                            |"
+    },
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.5.16585"
+  },
+  "2.6.16590": {
+    "servicingTag": "2.6",
+    "pr": {
+      "description": "#### Summary\nadd ip_restriction_default_action\n\n\n\nChanged\n  * add ip_restriction_default_action\n\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 3.66                            |\n\n",
+      "title": "add ip_restriction_default_action",
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      }
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.6.16590",
+    "uniqueTag": "2.6.16590",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.6",
+    "date": "2024-06-19"
+  },
+  "2.7.17169": {
+    "date": "2024-07-13",
+    "pr": {
+      "description": "#### Summary\n\nAdded possibillity to adjust environment variables which are related to App Service authentication\n\nChanged\nAdded variables and outputs for: \nWEBSITE_AUTH_ENCRYPTION_KEY\nBy default, the automatically generated key is used as the encryption key. To override, set to a desired key. This is recommended if you want to share tokens or sessions across multiple apps. If specified, it supersedes the MACHINEKEY_DecryptionKey setting.\n\nWEBSITE_AUTH_SIGNING_KEY\nBy default, the automatically generated key is used as the signing key. To override, set to a desired key. This is recommended if you want to share tokens or sessions across multiple apps. If specified, it supersedes the MACHINEKEY_ValidationKey setting.\n\nSee: https://learn.microsoft.com/en-us/azure/app-service/reference-app-settings?tabs=kudu%2Cdotnet#authentication--authorization\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | ~> 3.45                            |",
+      "title": "Added possibillity to adjust environment which variables are related to App Service authentication",
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      }
+    },
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.7",
+    "uniqueTag": "2.7.17169",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.7.17169",
+    "servicingTag": "2.7"
+  },
+  "2.7.19349": {
+    "uniqueTag": "2.7.19349",
+    "pr": {
+      "description": "",
+      "title": "",
+      "createdBy": null
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.7.19349",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.7",
+    "date": "2024-10-10",
+    "servicingTag": "2.7"
+  },
+  "2.8.20090": {
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.8",
+    "date": "2024-11-07",
+    "servicingTag": "2.8",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.8.20090",
+    "pr": {
+      "title": "Update to azurerm4",
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      },
+      "description": "#### Summary\nUpdate to azurerm4\n\nBreaking\n  * Update to azurerm4\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| => 0.14          | >3.45                          |"
+    },
+    "uniqueTag": "2.8.20090"
+  },
+  "2.8.20293": {
+    "uniqueTag": "2.8.20293",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.8",
+    "date": "2024-11-09",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT2.8.20293",
+    "pr": {
+      "title": "fix Firstwave E2E",
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      },
+      "description": "#### Summary\nfix Firstwave E2E\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| => 0.14.x          | ~>4.0                            |\n"
+    },
+    "servicingTag": "2.8"
+  },
+  "4.0.20472": {
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.0.20472",
+    "date": "2024-11-13",
+    "uniqueTag": "4.0.20472",
+    "pr": {
+      "createdBy": null,
+      "description": "",
+      "title": ""
+    },
+    "servicingTag": "4.0",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.0"
+  },
+  "4.0.21180": {
+    "uniqueTag": "4.0.21180",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.0",
+    "servicingTag": "4.0",
+    "date": "2024-12-09",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.0.21180",
+    "pr": {
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      },
+      "description": "#### Summary\nfix e2e tests with sensitive values\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| => 0.14          | ~>4.0                            |\n\n",
+      "title": "fix e2e tests with sensitive values"
+    }
+  },
+  "4.0.21988": {
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.0",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.0.21988",
+    "pr": {
+      "createdBy": {
+        "displayName": "Michael Kroh",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+          }
+        },
+        "id": "e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "uniqueName": "KROHM@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=e9705629-f4a2-6687-b5f7-301f10cbbc74",
+        "descriptor": "aad.ZTk3MDU2MjktZjRhMi03Njg3LWI1ZjctMzAxZjEwY2JiYzc0"
+      },
+      "title": "update min_tls_version to 1.3",
+      "description": "#### Summary\nupdate min_tls_version to 1.3\n\nBreaking\n * client_certificate_exclusion_path is not longer supported with Tls 1.3\n\nChanged\n  * update min_tls_version to 1.3\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| => 0.14          | ~>4.0                            |\n\n"
+    },
+    "date": "2025-01-21",
+    "servicingTag": "4.0",
+    "uniqueTag": "4.0.21988"
+  },
+  "4.0.22013": {
+    "date": "2025-01-24",
+    "uniqueTag": "4.0.22013",
+    "pr": {
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      },
+      "title": "Fixed auth settings",
+      "description": "#### Summary\nFixed auth settings\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| >= 0.14          | ~>4.0                            |"
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.0.22013",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.0",
+    "servicingTag": "4.0"
+  },
+  "4.0.22140": {
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.0",
+    "pr": {
+      "title": "Fixed cors config",
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      },
+      "description": "#### Summary\nFixed cors config\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| >= 0.14          | ~>4.0                            |"
+    },
+    "date": "2025-01-28",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.0.22140",
+    "servicingTag": "4.0",
+    "uniqueTag": "4.0.22140"
+  },
+  "4.1.22370": {
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.1.22370",
+    "servicingTag": "4.1",
+    "date": "2025-02-03",
+    "pr": {
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      },
+      "title": "Added support for WebDeploy and FTP Basic Authentication options",
+      "description": "#### Summary\nAdded support for WebDeploy and FTP Basic Authentication options\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| => 0.14          | ~>4.0                            |"
+    },
+    "uniqueTag": "4.1.22370",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appservice?version=GT4.1"
+  }
+}

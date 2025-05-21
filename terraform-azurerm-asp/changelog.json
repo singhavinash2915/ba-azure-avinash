@@ -1,0 +1,98 @@
+{
+  "1.1.9742": {
+    "date": "2023-07-28",
+    "uniqueTag": "1.1.9742",
+    "servicingTag": "1.1",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-asp?version=GT1.1.9742",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-asp?version=GT1.1",
+    "pr": {
+      "description": "#### Summary\nAdded pull request template",
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      },
+      "title": "Added pull request template"
+    }
+  },
+  "1.1.12149": {
+    "pr": {
+      "createdBy": {
+        "displayName": "Daniel Alexander Giej",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/3f9c2bc7-9432-6441-8698-fb802a9f8ecf",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.M2Y5YzJiYzctOTQzMi03NDQxLTg2OTgtZmI4MDJhOWY4ZWNm"
+          }
+        },
+        "id": "3f9c2bc7-9432-6441-8698-fb802a9f8ecf",
+        "uniqueName": "GiejDA@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=3f9c2bc7-9432-6441-8698-fb802a9f8ecf",
+        "descriptor": "aad.M2Y5YzJiYzctOTQzMi03NDQxLTg2OTgtZmI4MDJhOWY4ZWNm"
+      },
+      "title": "Terraform-Doku adjustments",
+      "description": "#### Summary\nAdjustments to the Terraform Documentation process"
+    },
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-asp?version=GT1.1.12149",
+    "date": "2023-11-22",
+    "uniqueTag": "1.1.12149",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-asp?version=GT1.1",
+    "servicingTag": "1.1"
+  },
+  "1.2.19930": {
+    "pr": {
+      "description": "#### Summary\nRemoved fixed Provider Version\n\nBreaking\n  * Removed fixed Provider Version\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| >= 0.14          | > 3.0                           |",
+      "createdBy": {
+        "displayName": "Marius Grosch",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/70341584-59e3-67fb-adfc-90d8e8363f44",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.NzAzNDE1ODQtNTllMy03N2ZiLWFkZmMtOTBkOGU4MzYzZjQ0"
+          }
+        },
+        "id": "70341584-59e3-67fb-adfc-90d8e8363f44",
+        "uniqueName": "GroschM1@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=70341584-59e3-67fb-adfc-90d8e8363f44",
+        "descriptor": "aad.NzAzNDE1ODQtNTllMy03N2ZiLWFkZmMtOTBkOGU4MzYzZjQ0"
+      },
+      "title": "Removed fixed Provider Version"
+    },
+    "servicingTag": "1.2",
+    "uniqueTag": "1.2.19930",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-asp?version=GT1.2.19930",
+    "date": "2024-11-06",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-asp?version=GT1.2"
+  },
+  "1.2.20272": {
+    "pr": {
+      "createdBy": null,
+      "description": "",
+      "title": ""
+    },
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-asp?version=GT1.2",
+    "date": "2024-11-09",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-asp?version=GT1.2.20272",
+    "uniqueTag": "1.2.20272",
+    "servicingTag": "1.2"
+  },
+  "4.0.20461": {
+    "pr": {
+      "title": "",
+      "createdBy": null,
+      "description": ""
+    },
+    "servicingTag": "4.0",
+    "date": "2024-11-13",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-asp?version=GT4.0",
+    "uniqueTag": "4.0.20461",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-asp?version=GT4.0.20461"
+  }
+}

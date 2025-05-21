@@ -1,0 +1,56 @@
+parameters:
+  - name: runFirstWaveStage
+    displayName: Run E2E-Test in FirstWave Tenant
+    type: boolean
+    default: false
+  - name: runProdStage
+    displayName: Run E2E-Test in Prod Tenant
+    type: boolean
+    default: true
+  - name: DoNotDestroyTF
+    displayName: Do not destroy TF resources
+    type: boolean
+    default: false
+  - name: TFLogMode
+    displayName: Terraform Log Mode (steers environment variable TF_LOG in Pester Tests)
+    type: string
+    default: ERROR
+    values:
+      - TRACE
+      - DEBUG
+      - INFO
+      - WARN
+      - ERROR
+
+# This pipeline is for Pull Requests only, so no CI trigger is needed (nor useful).
+trigger: none
+
+schedules:
+- cron: "0 0 * * 6"
+  displayName: Weekly Sunday Morning 0:00 build
+  branches:
+    include:
+    - master
+    - main
+  always: true
+
+variables:
+  - template: variable-templates/general-variables-template.azure-pipelines.yml@tf-pipeline-templates # Template reference
+  - template: variable-templates/check-pr-in-azure-variables-template.azure-pipelines.yml@tf-pipeline-templates # Template reference
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+resources:
+  repositories:
+  - repository: tf-pipeline-templates
+    type: git
+    name: tf-pipeline-templates
+
+stages:
+  - template: check-pr-azure-in-stages-template.azure-pipelines.yml@tf-pipeline-templates
+    parameters:
+      runFirstWaveStage: ${{ parameters.runFirstWaveStage }}
+      runProdStage: ${{ parameters.runProdStage }}
+      DoNotDestroyTF: ${{ parameters.DoNotDestroyTF }}
+      TFLogMode: ${{ parameters.TFLogMode }}
