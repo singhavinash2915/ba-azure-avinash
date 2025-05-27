@@ -1,0 +1,146 @@
+{
+  "1.1.9746": {
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.1",
+    "servicingTag": "1.1",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.1.9746",
+    "date": "2023-07-28",
+    "pr": {
+      "description": "#### Summary\nAdded pull request template",
+      "title": "Added pull request template",
+      "createdBy": {
+        "displayName": "Felix Brettnich",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+          }
+        },
+        "id": "2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "uniqueName": "BrettnF@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=2bcecc9e-86cb-6a6b-88a0-7a7ea4a67392",
+        "descriptor": "aad.MmJjZWNjOWUtODZjYi03YTZiLTg4YTAtN2E3ZWE0YTY3Mzky"
+      }
+    },
+    "uniqueTag": "1.1.9746"
+  },
+  "1.2.11724": {
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.2.11724",
+    "uniqueTag": "1.2.11724",
+    "pr": {
+      "title": "Added Outputs for Log Analytics Workspace and adjusted E2E-Tests",
+      "description": "#### Summary\nAdded Outputs for Log Analytics Workspace and adjusted E2E-Tests\n\nChanged\n  * Added Outputs for Log Analytics Workspace and adjusted E2E-Tests. Added additional input variables.\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          | >= 2.59                            |",
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      }
+    },
+    "servicingTag": "1.2",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.2",
+    "date": "2023-11-07"
+  },
+  "1.2.11934": {
+    "pr": {
+      "description": "#### Summary\nAdded possiblity to prevent Log Analytics Workspace creation\n\nChanged\n  * Added possiblity to prevent Log Analytics Workspace creation\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          |                             |",
+      "title": "Possiblity to prevent Log Analytics Workspace creation",
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      }
+    },
+    "servicingTag": "1.2",
+    "uniqueTag": "1.2.11934",
+    "date": "2023-11-15",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.2.11934",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.2"
+  },
+  "1.3.11958": {
+    "date": "2023-11-17",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.3",
+    "pr": {
+      "description": "#### Summary\nAdded the option to create a storage account to wrtie Logs to\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| > 0.14.x          |                            |",
+      "createdBy": {
+        "displayName": "Martin Fabian",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/272d588a-4921-6780-967c-d9a874520804",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+          }
+        },
+        "id": "272d588a-4921-6780-967c-d9a874520804",
+        "uniqueName": "FabianMa@BASFAD.BASF.NET",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=272d588a-4921-6780-967c-d9a874520804",
+        "descriptor": "aad.MjcyZDU4OGEtNDkyMS03NzgwLTk2N2MtZDlhODc0NTIwODA0"
+      },
+      "title": "Added option to create a Storage Account"
+    },
+    "uniqueTag": "1.3.11958",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.3.11958",
+    "servicingTag": "1.3"
+  },
+  "1.4.19927": {
+    "servicingTag": "1.4",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.4",
+    "uniqueTag": "1.4.19927",
+    "pr": {
+      "description": "#### Summary\nRemoved fixed provider version\n\nBreaking\n  * Removed fixed provider version\n\n\n\n#### Version compatibility\n\n| Terraform version | hashicorp/azurerm provider version |\n|-------------------| ---------------------------------- |\n| => 0.14          | > 3.0                            |",
+      "createdBy": {
+        "displayName": "Marius Grosch",
+        "url": "https://spsprodweu2.vssps.visualstudio.com/A8695d8f9-2dbd-4f09-bf64-d71f5eeab01e/_apis/Identities/70341584-59e3-67fb-adfc-90d8e8363f44",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/BASFTerraform/_apis/GraphProfile/MemberAvatars/aad.NzAzNDE1ODQtNTllMy03N2ZiLWFkZmMtOTBkOGU4MzYzZjQ0"
+          }
+        },
+        "id": "70341584-59e3-67fb-adfc-90d8e8363f44",
+        "uniqueName": "GroschM1@basfad.basf.net",
+        "imageUrl": "https://dev.azure.com/BASFTerraform/_api/_common/identityImage?id=70341584-59e3-67fb-adfc-90d8e8363f44",
+        "descriptor": "aad.NzAzNDE1ODQtNTllMy03N2ZiLWFkZmMtOTBkOGU4MzYzZjQ0"
+      },
+      "title": "Removed fixed provider version"
+    },
+    "date": "2024-11-06",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.4.19927"
+  },
+  "1.4.20273": {
+    "date": "2024-11-09",
+    "servicingTag": "1.4",
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.4",
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT1.4.20273",
+    "uniqueTag": "1.4.20273",
+    "pr": {
+      "createdBy": null,
+      "title": "",
+      "description": ""
+    }
+  },
+  "4.0.20460": {
+    "uniqueTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT4.0.20460",
+    "date": "2024-11-13",
+    "pr": {
+      "description": "",
+      "title": "",
+      "createdBy": null
+    },
+    "servicingTagUrl": "https://dev.azure.com/BASFTerraform/TerraformRegistry/_git/terraform-azurerm-appinsights?version=GT4.0",
+    "uniqueTag": "4.0.20460",
+    "servicingTag": "4.0"
+  }
+}

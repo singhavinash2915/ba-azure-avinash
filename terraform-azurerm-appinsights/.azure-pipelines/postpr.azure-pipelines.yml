@@ -1,0 +1,17 @@
+trigger:
+  branches:
+    include: 
+    - main
+    - release/*
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+resources:
+  repositories:
+  - repository: tf-pipeline-templates
+    type: git
+    name: tf-pipeline-templates
+
+stages:
+  - template: post-pr-azure-stages-template.azure-pipelines.yml@tf-pipeline-templates
